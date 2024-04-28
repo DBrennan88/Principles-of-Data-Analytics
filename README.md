@@ -1,3 +1,5 @@
 # Principles-of-Data-Analytics
+# My Work
+# Author Darragh Brennan
 
-Describe wht the rep is needed for and how to use
+Describe wht the repo is needed for and how to use
